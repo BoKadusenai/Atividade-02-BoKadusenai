@@ -1,4 +1,5 @@
 from Calculo_OO import*
 
-if __name__ == "main":
+
+if name == "main":
     main()
